@@ -1,15 +1,16 @@
-# Nuclear Tech Mod
+# HBM Nuclear Tech Mod - 1.18.2 Definitive Edition
+**This is a fork of MartinTheDragon's Port**
 **This is a full rewrite of the Nuclear Tech Mod [originally created by HbmMods](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT).**
 It is currently being developed for the 1.18.2 Minecraft version.
-Everything is still subject to change, even the speed at which blocks get mined. This mod is not ready for general use yet and everything is work in progress.
+Everything is still subject to change, even the speed at which blocks get mined. This mod is not ready for general use yet and everything is a work in progress.
 
 ### Development Builds
 
-But you can still test the current state of the mod by either [building the mod yourself](#compilation-instructions), or downloading one of the [occasional releases published on GitHub](https://github.com/MartinTheDragon/Nuclear-Tech-Mod-Remake/releases). Finding and reporting bugs is encouraged.
+But you can still test the current state of the mod by either [building the mod yourself](#compilation-instructions), or downloading one of the [occasional releases published on GitHub](https://github.com/8BitKyanii/HBM-s-Nuclear-Tech-GIT-1.18.2). Finding and reporting bugs is encouraged.
 
 ### Discord
 
-[Join the Discord server](https://discord.gg/XDrARD2FaJ) dedicated to the 1.18 port. It is not affiliated with the official NTM Discord server.
+[Join the Discord server](not set up) dedicated to the 1.18 port. It is not affiliated with the official NTM Discord server.
 
 ### Credits
 
