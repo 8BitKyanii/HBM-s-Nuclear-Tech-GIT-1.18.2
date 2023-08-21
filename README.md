@@ -23,6 +23,7 @@ Want to report a bug? Translate the mod? Make code contributions? We are interes
 ### Compilation Instructions
 
 If you want to be on the razor's edge of things instead of just cutting edge, you can also compile your own versions of the mod.
+(Note from 8-Bit: What kind of metaphor is that?!)
 
 1. Fetch the source code
 
